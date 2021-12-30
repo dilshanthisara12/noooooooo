@@ -1,0 +1,18 @@
+{
+    "dbb": {
+        "prefixes": {
+            "main": "-",
+            "servers": {}
+        },
+        "owners": [
+            "500534128521904129"
+        ]
+    },
+    "discord": {
+        "servers": {},
+        "members": {},
+        "users": {}
+    },
+    "blocks": {},
+    "custom": {}
+}
